@@ -4,6 +4,6 @@
 
 * sunt in clasa a-V-a
 * am 13 ani
-* pasionat de programare si r[obotica
+* pasionat de programare si robotica
 
-[Site-ul me](https://www.onyx-tech.eu)
+[Site-ul meu](https://www.onyx-tech.eu)
