@@ -6,4 +6,4 @@
 * am 13 ani
 * pasionat de programare si robotica
 
-[Site-ul meu](https://www.onyx-tech.eu)
+[Site-ul meu](https://onyx-tech.eu)
